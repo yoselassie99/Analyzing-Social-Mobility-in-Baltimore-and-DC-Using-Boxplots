@@ -11,6 +11,7 @@
 - Q1 Income is $21.7K
 - Q3 Income is $36.4K
 - The median is $27.5K
+
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/DCMedianIncomeBox.png)
 - Highest Income is $83.5K
 - Lowest Income is $19.2K
@@ -27,6 +28,7 @@
 - Q1 Income is $22.0K
 - Q3 Income is $35.5K
 - The median is $27.0K
+
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/DCIncomeStay.png)
 - Highest Income is $73.6K
 - Lowest Income is 20.7K
