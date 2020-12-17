@@ -1,11 +1,10 @@
 # Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots
 ## Background
-Part of what makes America great is the "American Dream", which is a belief that regardless of origins or social status, any dream or goal can be made a reality. This concept attracts people from around the world to this country, as they imagine a better future for themselves and their families. While hopes of a "brighter tomorrow" still drives hundreds of thousands to America each year, the same fervant belief in the American system is no longer present within [Americans](https://www.poynter.org/reporting-editing/2020/what-is-the-american-dream-in-2020-if-there-is-one/). 
+Part of what makes America great is the "American Dream", which is a belief that regardless of identity, origin or social status, any dream or goal can be made a reality. This concept attracts people from around the world to this country, as they imagine a better future for themselves and their families. While hopes of a "brighter tomorrow" still drives hundreds of thousands to America each year, the same fervant belief in the American system is no longer present within [Americans](https://www.poynter.org/reporting-editing/2020/what-is-the-american-dream-in-2020-if-there-is-one/). 
 
 Inability in achieving social mobility within low-income communities has created great complacency, resulting in generational [poverty](https://www.nccp.org/publication/childhood-and-intergenerational-poverty/). Resources that help children achieve social mobility and high quality of life, such as strong education systems, healthcare systems and extracurricular activities, are often scarce in low income communities. In constrast, these resources are in abundance for high income children, giving them a comparative advantage in maintaining or improving their quality of life. 
 
-Common methods used to identify social mobility are an individual's income and what they accomplish after growing up. Specificaly, individuals that fail to leave their childhood neighborhoods are often associated with low success, 
-
+Two cities heading in completely different directions are Washington, D.C and Baltimore. D.C is experiencing great economic growth, with most metrics suggesting DC is growing at a faster rate than the [United States] (https://www.bestplaces.net/economy/city/district_of_columbia/washington). Baltimore, however, is experiencing low growth compared to other American cities. A lack of opportunities, coupled with failing school systems and lack of infrastructure, has made Baltimore one of the few cities to experience a declining population [size](https://apnews.com/article/8891612dc28745b6a5ae538f91812783].
 
 
 ## Business Question
