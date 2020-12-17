@@ -8,7 +8,6 @@ Two cities heading in completely different directions are Washington, D.C and Ba
 
 Using Python, we will analyze different metrics from Baltimore and DC to determine an individual's ability to achieve social mobility. These metrics include median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract. 
 
-
 ## Business Question
 What can Baltimore and Washington, DC open data sources tell us about social mobility?
 
@@ -33,7 +32,7 @@ Data was analyzed and converted to visualizations using Python on [Google Colabo
 - Q3 Income is $40.0K
 - The median is $30.3K
 ### Summary on Baltimore vs DC Median Income 
-- 
+DC overall has greater income than Baltimore. Highest income, lowest income, Q1, Q3 and median in DC were all higher in Baltimore. This would suggest children in DC are afforded more opportunities than children in Baltimore based on parents income. 
 
 ### Baltimore vs DC Stayed In Commuting Zone Income
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreIncomeStay.png)
@@ -50,7 +49,7 @@ Data was analyzed and converted to visualizations using Python on [Google Colabo
 - Q3 Income is $37.7K
 - The median is $30.6K
 ### Summary on Baltimore vs DC Stayed in Commuting Zone Income 
-
+There is a similar trend 
 ### Baltimore vs DC Percentage Stayed 
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreStayPercentage.png)
 - Highest Percentage is 36.0%
