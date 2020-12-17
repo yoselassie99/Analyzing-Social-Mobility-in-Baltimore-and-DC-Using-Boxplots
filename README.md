@@ -1,5 +1,8 @@
 # Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots
+## Background
+Part of what makes America great is the "American dream", which is a belief that regardless of origins or social status, any dream or goal can be made reality. This concept attracts people from around the world to this country, as they imagine a better future for themselves and their families. While hopes of a "brighter tomorrow" still drives hundreds of thousands to America each year, the same fervant belief in the American system is no longer present within [Americans](https://www.poynter.org/reporting-editing/2020/what-is-the-american-dream-in-2020-if-there-is-one/). 
 
+Difficulties in 
 
 ## Business Question
 What can Baltimore and Washington, DC open data sources tell us about social mobility?
