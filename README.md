@@ -6,6 +6,8 @@ Inability in achieving social mobility within low-income communities has created
 
 Two cities heading in completely different directions are Washington, D.C and Baltimore. D.C is experiencing great economic growth, with most metrics suggesting DC is growing at a faster rate than the [United States](https://www.bestplaces.net/economy/city/district_of_columbia/washington). Baltimore, however, is experiencing low growth compared to other American cities. A lack of opportunities, coupled with failing school systems and lack of infrastructure, has made Baltimore one of the few cities to experience a declining population [size](https://apnews.com/article/8891612dc28745b6a5ae538f91812783).
 
+Using Python, we will analyze different metrics from Baltimore and DC to determine an individual's ability to achieve social mobility. These metrics include median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract. 
+
 
 ## Business Question
 What can Baltimore and Washington, DC open data sources tell us about social mobility?
@@ -15,7 +17,7 @@ Data was found from the [Opportunity Atlas Database](https://www.opportunityatla
 Data on median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract was extracted for Baltimore and DC. Process for cleaning data is included [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91).
 
 ## Data Visualizations (Box Plots)
-
+Data was analyzed and converted to visualizations using Python on [Google Colaboratory](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91).
 ### Baltimore vs DC Median Income
 ![alt_text](https://github.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/blob/main/BaltimoreMedianIncomePlot.png)
 - Highest Income is $75.5K
