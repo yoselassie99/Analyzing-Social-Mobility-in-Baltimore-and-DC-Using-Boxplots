@@ -1,8 +1,12 @@
 # Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots
 ## Background
-Part of what makes America great is the "American dream", which is a belief that regardless of origins or social status, any dream or goal can be made reality. This concept attracts people from around the world to this country, as they imagine a better future for themselves and their families. While hopes of a "brighter tomorrow" still drives hundreds of thousands to America each year, the same fervant belief in the American system is no longer present within [Americans](https://www.poynter.org/reporting-editing/2020/what-is-the-american-dream-in-2020-if-there-is-one/). 
+Part of what makes America great is the "American Dream", which is a belief that regardless of origins or social status, any dream or goal can be made a reality. This concept attracts people from around the world to this country, as they imagine a better future for themselves and their families. While hopes of a "brighter tomorrow" still drives hundreds of thousands to America each year, the same fervant belief in the American system is no longer present within [Americans](https://www.poynter.org/reporting-editing/2020/what-is-the-american-dream-in-2020-if-there-is-one/). 
 
-Difficulties in 
+Inability in achieving social mobility within low-income communities has created great complacency, resulting in generational [poverty](https://www.nccp.org/publication/childhood-and-intergenerational-poverty/). Resources that help children achieve social mobility and high quality of life, such as strong education systems, healthcare systems and extracurricular activities, are often scarce in low income communities. In constrast, these resources are in abundance for high income children, giving them a comparative advantage in maintaining or improving their quality of life. 
+
+Common methods used to identify social mobility are an individual's income and what they accomplish after growing up. Specificaly, individuals that fail to leave their childhood neighborhoods are often associated with low success, 
+
+
 
 ## Business Question
 What can Baltimore and Washington, DC open data sources tell us about social mobility?
