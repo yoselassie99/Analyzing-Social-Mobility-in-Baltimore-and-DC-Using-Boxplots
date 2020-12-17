@@ -31,6 +31,7 @@ Data was analyzed and converted to visualizations using Python on [Google Colabo
 - Q1 Income is $25.6K
 - Q3 Income is $40.0K
 - The median is $30.3K
+
 ### Summary on Baltimore vs DC Median Income 
 DC overall has greater income than Baltimore. Highest income, lowest income, Q1, Q3 and median in DC were all higher in Baltimore. This would suggest children in DC are afforded more opportunities than children in Baltimore based on parents income. 
 
