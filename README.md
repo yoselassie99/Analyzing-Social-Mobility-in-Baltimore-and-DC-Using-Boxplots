@@ -13,7 +13,7 @@ What can Baltimore and Washington, DC open data sources tell us about social mob
 
 ## Data Source 
 Data was found from the [Opportunity Atlas Database](https://www.opportunityatlas.org/).
-Data on median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract was extracted for Baltimore and DC. Process for cleaning data is included [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91).
+Data on median household income, percentage of adults who stayed in same tract, and median income among adults who stayed in same tract was extracted for Baltimore and DC. Process for cleaning data is included [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91). Raw Data is provided above.
 
 ## Data Visualizations (Box Plots)
 Data was analyzed and converted to visualizations using Python on [Google Colaboratory](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91).
