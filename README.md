@@ -23,7 +23,8 @@ Median Income:
 
 Income of Those Stayed:
 
-Baltimore
+[Baltimore](
+
 DC
 
 Percent Stay:
