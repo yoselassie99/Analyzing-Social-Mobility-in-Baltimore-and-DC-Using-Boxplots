@@ -23,9 +23,9 @@ Median Income:
 
 Income of Those Stayed:
 
-[Baltimore](
+[Baltimore](https://raw.githubusercontent.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/main/BaltimoreIncomeStay.csv)
 
-DC
+[DC](
 
 Percent Stay:
 
