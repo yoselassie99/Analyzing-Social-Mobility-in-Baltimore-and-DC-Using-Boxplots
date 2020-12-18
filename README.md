@@ -25,11 +25,12 @@ Income of Those Stayed:
 
 [Baltimore](https://raw.githubusercontent.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/main/BaltimoreIncomeStay.csv)
 
-[DC](
+[DC](https://raw.githubusercontent.com/yoselassie99/Analyzing-Social-Mobility-in-Baltimore-and-DC-Using-Boxplots/main/DCHouseholdIncomeStay.csv)
 
 Percent Stay:
 
-Baltimore
+[Baltimore](
+
 DC
 
 ## Data Visualizations (Box Plots)
