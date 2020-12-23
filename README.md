@@ -89,4 +89,4 @@ Again, income of those that stayed in DC is greater than those that stayed in Ba
 DC and Baltimore are fairly similar in terms of percentage of residents that stay in their communiting zones as adults. The only noticeable difference between the two boxplots is the Q3 in DC is about 27% while Q3 in Baltimore is about 24%. Reasons for why a higher percentage of people may choose to stay in DC versus Baltimore is because better living conditions in DC compared to Baltimore makes staying in the city more attractive. 
 
 ## Full Project
-Codes for box plots are included [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH#scrollTo=RF_ektsqQ_91) under  "Box Plots" in the table of contents. The link also includes step by step coding for the full project. 
+Codes for box plots are included [here](https://colab.research.google.com/drive/1eCiJZyu8E-9K_7lrFo50r6eRZxm5udtH?usp=sharing) under  "Box Plots" in the table of contents. The link also includes step by step coding for the full project. 
